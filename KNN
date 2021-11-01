@@ -1,9 +1,0 @@
-This document contains the K-nearest neighbor algorithm implementation process
-1. The distance formula of K-nearest neighbor algorithm
-2. Hyperparameter K value and value problem of K-nearest neighbor algorithm
-3.kd tree search
-4. Application KNeighborsClassifier for classification
-5. Advantages and disadvantages of K-nearest neighbor algorithm
-6. The process of cross-validation
-7. The process of hyperparameter search
-8. Use GridSearchCV to realize the optimization of algorithm parameters
